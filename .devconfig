@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+# Should code formatting be checked on each commit?
+beautify=2.0
